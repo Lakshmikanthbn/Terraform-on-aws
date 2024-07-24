@@ -12,3 +12,22 @@ Build a simple web application that allows users to submit and view feedback. Th
 - **Terraform**: For Infrastructure as Code (IaC).
 
 ## Project Structure
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── lambda_function.py
+├── frontend
+│ ├── index.html
+│ ├── styles.css
+│ └── script.js
+├── README.md
+
+## Getting Started
+
+### Prerequisites
+- AWS Account
+- AWS CLI configured with proper access
+- Terraform installed
+- Basic knowledge of AWS services and web development
+
+
